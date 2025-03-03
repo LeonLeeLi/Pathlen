@@ -1,0 +1,17 @@
+# 依赖与构建产物
+node_modules/
+.next/
+__pycache__/
+*.pyc
+.venv/
+
+# 运行时数据
+*.db
+tsconfig.tsbuildinfo
+
+# 编译产物
+*.exe
+
+# 文档(只保留 README)
+*.md
+!README.md
