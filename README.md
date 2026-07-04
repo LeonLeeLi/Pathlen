@@ -1,6 +1,7 @@
+
 # PathLens
 
-PathLens is a one-day internet path observability demo. Traditional host
+PathLens is a internet path observability demo. Traditional host
 monitoring answers "is this machine healthy?" PathLens answers "from probe A to
 probe B, is this network path healthy?"
 
